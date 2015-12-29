@@ -1,0 +1,43 @@
+\chapter{Introduction}
+\pagenumbering{arabic}
+\begin{quote}
+``By the time you've sorted out a complicated idea into little steps that even a stupid machine can deal with, you've certainly learned something about it yourself.''\begin{flushright}-- Douglas Adams\end{flushright}
+\end{quote}
+
+\noindent In Douglas Adams' book \textbf{Dirk Gently's Holistic Detection Agency}, a talented software developer named Richard Macduff develops a spreadsheet programme named \textit{Anthem} with a unique feature; It can turn account data into music.
+
+The book was written in a year when the \textit{Apple Macintosh Plus} was considered state-of-the-art technology, and Douglas Adams was clearly captivated by the potential of what kinds of programs could be created. Would the computer limit the bounds of a programmer's imagination, or allow its programmer to realise ideas that appear seemingly impossible?
+
+Nowadays, Digital on-the-fly music generation is becoming increasingly popular for many different applications, so perhaps Adams' idea doesn't seem so far-fetched anymore. In the entertainment industry, games such as Electroplankton allow the dynamic generation of music based on the actions of fictional organisms.\footnote{\url{http://electroplankton.nintendods.com}} Conversely, some games work the other way round, generating levels from music. Audiosurf is one such example, generating racing tracks from the user's MP3 collection.\footnote{\url{http://www.audio-surf.com}}
+
+However, to my knowledge, no one has attempted to implement Adams' idea\ldots until now.
+
+\section{Motivation and Objectives}
+
+In theoretical computer science (computability theory), we talk about a problem having a certain level of complexity. In other words, some problems can be solved by a computer, some can't, and for some we just don't know. Whilst this concept doesn't directly apply to this dissertation topic (we're not looking at directly solving a mathematical problem per se), it may make us wonder about solving a problem with a computer where the end result is dependant on human opinion.\footnote{Donald E. Knuth published a surreal paper entitled ``The Compexity of Songs'' in 1984, implying that songs had complexity levels similar to those of problems in the computability theory. \url{http://www.cs.utexas.edu/arvindn/misc/knuth_song_complexity.pdf}}
+
+This is one of the fundamental challenges posed by this project; Can we solve a problem (generating music from accounts) whereby our success measure (that the music represents the account's nature) is dependant on human subjectivity?
+
+The analysis of a company's account by an expert (such as an accountant) is a logical process, and one that may take some considerable skill. Therefore, an account given to any number of experts to analyse will almost always conclude with a unanimous opinion as to the account's condition.
+
+Music is different. When a piece of music is played to a group of people, there often will \textit{not} be a consensus of opinion as to the meaning of a piece of music. This in its self provides the challenge of taking something of an objective perception (raw account data), and presenting its meaning using something of a subjective perception (music).
+
+An equally fundamental challenge that we will encounter is how to take two disparate concepts with seemingly little in common (accounts and music), and then link them together with tangible ideas which can be implemented and evaluated.
+
+From these challenges, the ultimate aim of this project (this project's `holy grail') is to produce note sequences from accounts which both \textbf{convey the state of the account} and also \textbf{sound like well structured pieces of music}. Along the way, we will hope to learn some interesting and surprising things from the issues we encounter.
+
+\section{Dissertation Outline}
+
+The structure of this dissertation follows a natural flow from one idea to another. Where appropriate, we discuss the origin, design and implementation of a single idea in the same chapter.
+
+In \textbf{Chapter 2}, we will begin by looking at the theory underpinning the project. What is a financial statement? What are the fundamentals of music cognition, and why are they so important in this dissertation?
+
+With \textbf{Chapter 3}, we will look the design and implementation of a central software architecture capable of reading accounts, and playing music. We will also look at how implementations of ideas discussed in this project will connect to this crucial framework.
+
+In \textbf{Chapter 4} and \textbf{Chapter 5}, we will consider in detail two approaches to generating music from accounts. The first, \textbf{Signal Mapping}, takes a mathematical approach. The second, \textbf{L-System Music Generation}, comes from a Biologically-Inspired direction. Both of these approaches will be followed through from conception, to design and finally to an implementation, using the architecture discussed in the second chapter.
+
+In \textbf{Chapter 6}, we will evaluate these two approaches to determine how successful they have been. The evaluation will use human testers, and the evaluation technique will especially consider the subjective nature of music interpretation. The results of the evaluation will be carefully analysed, and some interesting conclusions will be drawn.
+
+In \textbf{Chapter 7}, we will propose a more ambitious approach called \textbf{The Financial Genome}. This idea presents a method by which unique features of an account can be indentified through a combination of supervised machine learning and evolutionary algorithms. We will see how the approach used for evaluating the first two implementations naturally leads to this approach.
+
+Finally, in \textbf{Chapter 8}, we will conclude and look at avenues in which the project could potentially be expanded on beyond its current scope in the future. We will look at questions raised during the implementation process, and evaluate the project as a whole.

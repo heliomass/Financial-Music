@@ -1,0 +1,1080 @@
+This is pdfTeX, Version 3.141592-1.40.4 (MiKTeX 2.7 Beta 5) (preloaded format=pdflatex 2007.11.22)  2 JUN 2008 10:20
+entering extended mode
+**report.tex
+(report.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, french, loaded.
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\report.cls"
+Document Class: report 2005/09/16 v1.4f Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\size11.clo"
+File: size11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\bibdata{main}
+No file report.bbl.
+("C:\Program Files\MiKTeX 2.7\tex\latex\preprint\fullpage.sty"
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphics.sty"
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\pdftex.def"
+File: pdftex.def 2007/06/12 v0.04h Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen105
+\WF@size=\dimen106
+\c@WF@wrappedlines=\count89
+\WF@box=\box26
+\WF@everypar=\toks15
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\setspace\setspace.sty"
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) ("C:\Program Files\MiKTeX 2.7\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count90
+\float@exts=\toks16
+\float@box=\box27
+\@float@everytoks=\toks17
+\@floatcapt=\box28
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\sectsty\sectsty.sty"
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2002/01/22 v2.2d
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\bbm\bbm.sty"
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+\@float@every@formality=\toks19
+\c@formality=\count91
+ (report.aux
+(titlepage.aux) (ack.aux) (introduction.aux) (background.aux) (framework.aux)
+(mapping.aux) (lsystem.aux) (testing.aux) (genome.aux) (conclusion.aux)
+(results.aux
+
+LaTeX Warning: Label `fig:results' multiply defined.
+
+
+LaTeX Warning: Label `fig:results' multiply defined.
+
+) (appio.aux) (appgraph.aux) (questionnaire.aux) (userguide.aux)
+(genomeexample.aux) (applog.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+("C:\Program Files\MiKTeX 2.7\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen107
+\scratchbox=\box29
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen108
+\MPnumerator=\count96
+\everyMPtoPDFconversion=\toks20
+) (titlepage.tex <./logo.png, id=1, 246.9225pt x 94.3525pt>
+File: ./logo.png Graphic file (type png)
+ <use ./logo.png>
+LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+) [1
+
+
+{C:/Documents and Settings/Daniel/Local Settings/Application Data/MiKTeX/2.7/pd
+ftex/config/pdftex.map} <C:/finmuswrite/logo.png>])
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+[1] (ack.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+[1
+
+]) (report.toc [1
+
+
+]
+Overfull \hbox (7.66495pt too wide) detected at line 79
+ \OT1/cmr/m/n/10.95 XVII
+ []
+
+
+Overfull \hbox (11.92328pt too wide) detected at line 80
+ \OT1/cmr/m/n/10.95 XVIII
+ []
+
+
+Overfull \hbox (7.66495pt too wide) detected at line 81
+ \OT1/cmr/m/n/10.95 XXII
+ []
+
+)
+\tf@toc=\write3
+ [2] (report.lof [3
+
+]
+Overfull \hbox (3.71077pt too wide) detected at line 39
+ \OT1/cmr/m/n/10.95 VIII
+ []
+
+
+Overfull \hbox (3.71077pt too wide) detected at line 43
+ \OT1/cmr/m/n/10.95 XIII
+ []
+
+
+Overfull \hbox (3.40662pt too wide) detected at line 44
+ \OT1/cmr/m/n/10.95 XIV
+ []
+
+
+Overfull \hbox (3.40662pt too wide) detected at line 46
+ \OT1/cmr/m/n/10.95 XVI
+ []
+
+)
+\tf@lof=\write4
+ [1] (introduction.tex
+Chapter 1.
+[1
+
+
+] [2]) [3] (background.tex
+Chapter 2.
+
+Overfull \hbox (14.27734pt too wide) in paragraph at lines 14--21
+ [] 
+ []
+
+[4
+
+
+
+] [5] [6]) [7] (framework.tex
+Chapter 3.
+<use_case.png, id=64, 163.69154pt x 102.6234pt>
+File: use_case.png Graphic file (type png)
+ <use use_case.png> [8
+
+
+
+ <use_case.png (PNG copy)>] <shellcore.png, id=68, 260.8947pt x 136.5903pt>
+File: shellcore.png Graphic file (type png)
+
+<use shellcore.png> [9] [10 <shellcore.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 75.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
+
+Overfull \hbox (19.8552pt too wide) in paragraph at lines 77--78
+[]\OT1/cmtt/m/n/10.95 MusicReader.class \OT1/cmr/m/n/10.95 -- Looks for a CSV f
+ile with MIDI val-ues and pipes it to \OT1/cmtt/m/n/10.95 PlayMusic.class\OT1/c
+mr/m/n/10.95 . 
+ []
+
+<UML.png, id=75, 291.9708pt x 310.761pt>
+File: UML.png Graphic file (type png)
+ <use UML.png> [11]) [12] [13 <UML.png (PNG copy)>] (mapping.tex
+Chapter 4.
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 13.
+
+Overfull \hbox (29.50494pt too wide) in paragraph at lines 10--27
+ [] 
+ []
+
+[14
+
+
+
+] <ss01.png, id=92, 732.7375pt x 572.1375pt>
+File: ss01.png Graphic file (type png)
+ <use ss01.png>
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ [15 <ss01.png (PNG copy)>] <ss02.png, id=96, 732.7375pt x 572.1375pt>
+File: ss02.png Graphic file (type png)
+ <use ss02.png> [16 <ss02.png (PNG copy)>] <ss03.png, id=100, 732.7375pt x 572.
+1375pt>
+File: ss03.png Graphic file (type png)
+ <use ss03.png>
+[17 <ss03.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+[18] [19]
+Overfull \hbox (22.63843pt too wide) in paragraph at lines 219--226
+ [] 
+ []
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 250.
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 250.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 250.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 250.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 251.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 251.
+
+[20] [21] <Mapping_04.png, id=119, 371.3875pt x 208.78pt>
+File: Mapping_04.png Graphic file (type png)
+ <use Mapping_04.png>
+<Mapping_05.png, id=120, 373.395pt x 164.615pt>
+File: Mapping_05.png Graphic file (type png)
+ <use Mapping_05.png>
+Missing character: There is no ’ in font cmr10!
+LaTeX Font Info:    Try loading font information for U+bbm on input line 317.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\bbm\ubbm.fd"
+File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
+)
+
+LaTeX Warning: Command \textless invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 319.
+
+[22 <Mapping_04.png (PNG copy)> <Mapping_05.png (PNG copy)>]
+<sigmet01.png, id=124, 757.83125pt x 153.57375pt>
+File: sigmet01.png Graphic file (type png)
+ <use sigmet01.png>
+<sigmet02.png, id=125, 757.83125pt x 153.57375pt>
+File: sigmet02.png Graphic file (type png)
+ <use sigmet02.png>
+<sigmet03.png, id=126, 760.8425pt x 153.57375pt>
+File: sigmet03.png Graphic file (type png)
+ <use sigmet03.png>
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
+
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 370--371
+[]\OT1/cmtt/m/n/10.95 signalProcessorSequence( signal, referenceSignal, signalP
+riority )\OT1/cmr/m/n/10.95 : Pro-duces a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+[]\OT1/cmtt/m/n/10.95 signalProcessorScale( signal, signalVariance, signalPrior
+ity, referenceSignal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+[]\OT1/cmtt/m/n/10.95 signalProcessorArpeggio( signal, signalVariance, signalPr
+iority,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+[]\OT1/cmtt/m/n/10.95 signalProcessorBrokenChord( signal, signalVariance, signa
+lPriority,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+
+ []
+
+[23 <sigmet01.png (PNG copy)> <sigmet02.png (PNG copy)> <sigmet03.png (PNG copy
+)>] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+[]\OT1/cmtt/m/n/10.95 Re-order signals according to how far the deviate from
+ []
+
+[25]) [26] (lsystem.tex
+Chapter 5.
+[27
+
+
+
+] [28] [29] [30] [31] [32] [33]
+<fsm1.png, id=164, 287.6346pt x 102.98476pt>
+File: fsm1.png Graphic file (type png)
+ <use fsm1.png>
+<fsm2.png, id=165, 287.6346pt x 102.98476pt>
+File: fsm2.png Graphic file (type png)
+ <use fsm2.png> [34 <fsm1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 289--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--292
+
+ []
+
+[35 <fsm2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 306--308
+
+ []
+
+
+Overfull \hbox (1.17844pt too wide) in paragraph at lines 311--312
+\OT1/cmtt/m/n/10.95 [1.513267626990144, 1.4732345248474281, 0.6928702010968921,
+ 0.6676837725381415,
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+[]\OT1/cmtt/m/n/10.95 appendHarmony( outputMusicHarmony, currentNote, harmonize
+, harmonyKey, keyMap
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 321--333
+\OT1/cmtt/m/n/10.95 keyShiftUp( keyMap, shiftDistance, note )\OT1/cmr/m/n/10.95
+ : Shifts \OT1/cmtt/m/n/10.95 keyMap \OT1/cmr/m/n/10.95 up by \OT1/cmtt/m/n/10.
+95 shiftDistance\OT1/cmr/m/n/10.95 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 321--333
+\OT1/cmtt/m/n/10.95 chordComparison( currentChord, lastChord )\OT1/cmr/m/n/10.9
+5 : Com-pares two chords. If the two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--333
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 340--342
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+[]\OT1/cmtt/m/n/10.95 if $\OML/cmm/m/it/10.95 c$ \OT1/cmtt/m/n/10.95 == `[' the
+n push currentNote, harmonize & keyMap onto
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+[]\OT1/cmtt/m/n/10.95 if $\OML/cmm/m/it/10.95 c$ \OT1/cmtt/m/n/10.95 == `]' the
+n pop currentNote, harmonize & keyMap from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+[]\OT1/cmtt/m/n/10.95 if harmonize == true && keyMap in major then harmony = cu
+rrentNote +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+[]\OT1/cmtt/m/n/10.95 else if harmonize == true && keyMap in minor then harmony
+ =
+ []
+
+[38] [39] <slider1.png, id=185, 192.2382pt x 39.38715pt>
+File: slider1.png Graphic file (type png)
+ <use slider1.png>
+[40 <slider1.png (PNG copy)>] <slider2.png, id=189, 142.01054pt x 59.9841pt>
+File: slider2.png Graphic file (type png)
+
+<use slider2.png>) [41 <slider2.png (PNG copy)>] (testing.tex
+Chapter 6.
+Missing character: There is no – in font cmr10!
+<word_cloud.png, id=194, 371.3875pt x 238.8925pt>
+File: word_cloud.png Graphic file (type png)
+ <use word_cloud.png> [42
+
+
+
+]
+[43 <word_cloud.png>] <testing.png, id=202, 442.65375pt x 283.0575pt>
+File: testing.png Graphic file (type png)
+
+<use testing.png> [44 <testing.png (PNG copy)>]
+Missing character: There is no ’ in font cmr10!
+ [45]
+<agreegraph.png, id=209, 916.42375pt x 475.7775pt>
+File: agreegraph.png Graphic file (type png)
+ <use agreegraph.png>
+Overfull \hbox (5.24286pt too wide) in paragraph at lines 114--115
+ [][] 
+ []
+
+<agreegraphseq.png, id=210, 745.78625pt x 446.66875pt>
+File: agreegraphseq.png Graphic file (type png)
+ <use agreegraphseq.png>
+<agreegraphpar.png, id=211, 746.79pt x 447.6725pt>
+File: agreegraphpar.png Graphic file (type png)
+ <use agreegraphpar.png>
+<agreegraphstrings.png, id=212, 746.79pt x 447.6725pt>
+File: agreegraphstrings.png Graphic file (type png)
+
+<use agreegraphstrings.png>
+<agreegraphpiano.png, id=213, 744.7825pt x 445.665pt>
+File: agreegraphpiano.png Graphic file (type png)
+
+<use agreegraphpiano.png> [46 <agreegraph.png (PNG copy)>] [47 <agreegraphseq.p
+ng (PNG copy)>] <numberoflistens.png, id=222, 745.78625pt x 446.66875pt>
+File: numberoflistens.png Graphic file (type png)
+
+<use numberoflistens.png>
+<numberoflistenscor.png, id=223, 745.78625pt x 446.66875pt>
+File: numberoflistenscor.png Graphic file (type png)
+
+<use numberoflistenscor.png> [48 <agreegraphpar.png (PNG copy)>]
+<musicalityaverage.png, id=227, 746.79pt x 447.6725pt>
+File: musicalityaverage.png Graphic file (type png)
+
+<use musicalityaverage.png> [49 <agreegraphstrings.png (PNG copy)>] [50 <agreeg
+raphpiano.png (PNG copy)>]) [51 <numberoflistens.png (PNG copy)>] [52 <numberof
+listenscor.png (PNG copy)> <musicalityaverage.png (PNG copy)>] (genome.tex
+Chapter 7.
+[53
+
+
+
+] [54] <genes.png, id=247, 223.67564pt x 176.70015pt>
+File: genes.png Graphic file (type png)
+ <use genes.png>
+Missing character: There is no £ in font cmr10!
+Missing character: There is no £ in font cmr10!
+
+[55 <genes.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+[56]
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 167.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 167.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 170.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 170.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 171.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 171.
+
+[57]
+Overfull \hbox (26.25133pt too wide) in paragraph at lines 206--207
+\OT1/cmr/m/n/10.95 Therefore, the genome for the ex-am-ple in 7.1[] is given as
+ the set $\OML/cmm/m/it/10.95 GN[] \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 f\O
+T1/cmr/m/n/10.95 58800\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 630\OML/cmm/m/it
+/10.95 ; \OT1/cmr/m/n/10.95 13720\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 2160\
+OMS/cmsy/m/n/10.95 g$\OT1/cmr/m/n/10.95 . 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 216
+.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 216.
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 216.
+
+[58]
+Missing character: There is no ’ in font cmr10!
+ [59]
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+[60]) [61] (conclusion.tex
+Chapter 8.
+[62
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+) [66] [1
+
+
+] (results.tex <results1.pdf, id=289, 597.23125pt x 845.1575pt>
+File: results1.pdf Graphic file (type pdf)
+
+<use results1.pdf> <results2.pdf, id=290, 597.23125pt x 845.1575pt>
+File: results2.pdf Graphic file (type pdf)
+
+<use results2.pdf> <results3.pdf, id=291, 597.23125pt x 845.1575pt>
+File: results3.pdf Graphic file (type pdf)
+
+<use results3.pdf>) [2
+
+] [3 <results1.pdf>] [4 <results2.pdf>] [5 <results3.pdf>] (appio.tex
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+ <import_1.png, id=335, 305.14pt x 494.84875pt>
+File: import_1.png Graphic file (type png)
+ <use import_1.png>
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+
+[6
+
+
+] <import_2.png, id=339, 280.04625pt x 507.8975pt>
+File: import_2.png Graphic file (type png)
+ <use import_2.png>
+[7 <import_1.png (PNG copy)>]) [8 <import_2.png (PNG copy)>] (appgraph.tex
+<numberoflistensind.png, id=346, 745.78625pt x 446.66875pt>
+File: numberoflistensind.png Graphic file (type png)
+
+<use numberoflistensind.png>
+<musicalitydetail.png, id=347, 746.79pt x 447.6725pt>
+File: musicalitydetail.png Graphic file (type png)
+
+<use musicalitydetail.png>) [9
+
+
+ <numberoflistensind.png (PNG copy)>] [10 <musicalitydetail.png (PNG copy)>] (q
+uestionnaire.tex
+<qa1.pdf, id=354, 597.23125pt x 845.1575pt>
+File: qa1.pdf Graphic file (type pdf)
+ <use qa1.pdf>
+<qa2.pdf, id=355, 597.23125pt x 845.1575pt>
+File: qa2.pdf Graphic file (type pdf)
+ <use qa2.pdf>
+<qa3.pdf, id=356, 597.23125pt x 845.1575pt>
+File: qa3.pdf Graphic file (type pdf)
+ <use qa3.pdf>
+<qt1.pdf, id=357, 597.23125pt x 845.1575pt>
+File: qt1.pdf Graphic file (type pdf)
+ <use qt1.pdf>
+<qt2.pdf, id=358, 597.23125pt x 845.1575pt>
+File: qt2.pdf Graphic file (type pdf)
+ <use qt2.pdf>) [11
+
+
+] [12 <qa1.pdf>]
+[13 <qa2.pdf>] [14 <qa3.pdf>] [15 <qt1.pdf>] [16 <qt2.pdf>] (userguide.tex
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) [17
+
+
+] (genomeexample.tex
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+[18
+
+
+] [19] [20]) [21] (applog.tex) [22
+
+
+] (report.aux (titlepage.aux) (ack.aux)
+(introduction.aux) (background.aux) (framework.aux) (mapping.aux) (lsystem.aux)
+(testing.aux) (genome.aux) (conclusion.aux) (results.aux) (appio.aux)
+(appgraph.aux) (questionnaire.aux) (userguide.aux) (genomeexample.aux)
+(applog.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2063 strings out of 95350
+ 25492 string characters out of 1184431
+ 95196 words of memory out of 1500000
+ 5061 multiletter control sequences out of 110000
+ 21488 words of font info for 84 fonts, out of 1200000 for 2000
+ 14 hyphenation exceptions out of 8191
+ 27i,8n,24p,1085b,375s stack positions out of 5000i,500n,10000p,200000b,5000s
+ <C:\Documents and Settings\Daniel\Local Settings\Application Data\MiKTeX\2.7
+\fonts\pk\ljfour\public\bbm\dpi657\bbm10.pk><C:/Program Files/MiKTeX 2.7/fonts/
+type1/bluesky/cm/cmbsy10.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/c
+m/cmbx10.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmbx12.pfb><C:
+/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmbx9.pfb><C:/Program Files/Mi
+KTeX 2.7/fonts/type1/bluesky/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.7/fonts/
+type1/bluesky/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm
+/cmmi12.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmmi8.pfb><C:/P
+rogram Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr10.pfb><C:/Program Files/MiKT
+eX 2.7/fonts/type1/bluesky/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.7/fonts/type
+1/bluesky/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr8.
+pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr9.pfb><C:/Program Fi
+les/MiKTeX 2.7/fonts/type1/bluesky/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.7/f
+onts/type1/bluesky/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesk
+y/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmti12.pfb>
+<C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmti9.pfb><C:/Program Files
+/MiKTeX 2.7/fonts/type1/bluesky/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.7/font
+s/type1/bluesky/cm/cmtt9.pfb>
+Output written on report.pdf (96 pages, 1112131 bytes).
+PDF statistics:
+ 566 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+

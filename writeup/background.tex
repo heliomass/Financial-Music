@@ -1,0 +1,93 @@
+\chapter{The Theory}
+
+In this chapter, we will look at some of the theory underpinning this project. We will discover how company accounts are formed, and we will look at how music cognition relates to how people perceive music.
+
+\section{Company Accounts Analysis}
+
+IA company's account consists of three main statements. They are the \textbf{Balance Sheet}, the \textbf{Income Statement} and the \textbf{Cash Flow Statement}.\footnote{\url{http://www.flexinvest.co.uk/secrets.htm}}
+
+The \textbf{balance sheet} gives an impression of a company's situation at a specific point in time. If we compare two balance sheets that are a year apart, we can determine useful details about the company's performance over the year, and the current direction that it is heading. Here is an example of what a company's balance sheet looks like (amounts are given in millions of US Dollars):
+
+\small
+\begin{center}
+\begin{singlespace}
+\begin{tabular}{ | l || l | l | l | l | l | }
+\hline
+ & \textbf{Current Assets} & \textbf{Total Assets} & \textbf{Current Liabilities} & \textbf{Total Liabilities} & \textbf{Total Equity} \\ \hline \hline
+2006 & 4076.71 & 9251.8 & 3150.2 & 8401.05 & 850.13 \\ \hline
+2007 & 3766.27 & 8342.6 & 5912.8 & 7821.86 & 520.74 \\
+\hline
+\end{tabular}
+\end{singlespace}
+\end{center}
+\normalsize
+
+Of the remaining two statements, The \textbf{profit and loss statement} records how the company's profit and losses were reached over the course of a year, and the \textbf{cash flow statement} shows movements in cash and cash equivalents (assets). As we are going to be using snapshots of a company's state at points in time, we will keep our focus on the balance sheet as the source for deriving music.
+
+\section{Music Theory}
+
+Music Theory is the field of study which explains the mechanics of music, and there are some specific ideas that we will need to be very familiar with in order to develop ideas for Financial Music.
+
+\begin{singlespace}
+\begin{formality}
+\subsection*{Melody}
+
+A melody is a successive sequence of notes. If the sequence is well structured within a scale, it will sound musical and pleasant to the ear.
+
+\subsection*{Key}
+
+A key has a signature (major or minor) and a tonic (the root note).
+
+\subsection*{Octave}
+
+An octave is a distance of twelve successive notes between two successive musical pitches.
+
+\subsection*{Scales}
+
+A scale is a sequence of notes within a key. For example, a major scale is given as the following notes in an octave: $[1, 3, 5, 6, 8, 10, 12]$.
+
+\subsection*{Chords}
+
+Several notes played concurrently within the same key. Chords add depth to music when complementing a melody.
+
+\subsection*{Clashing Notes}
+
+Two or more notes played concurrently, of which at least two are in different keys. The sound is discordant.
+\end{formality}
+\end{singlespace}
+
+\section{Music Cognition}
+
+Music cognition is a field of study which concerns its self with how the human mind perceives music. This is a crucial area to understand before beginning the design process, as we need to know what kind of music to generate to create a certain impression in the listener.
+
+Music cognition consists of several sub-topics, and in this project, we are particularly concerned with the topic of music perception.
+
+Music perception is the process by which the \textbf{past experience} of a listener processes \textbf{sounds} in to \textbf{music}.\footnote{Note that as the experience of the listener will determine the impression given by a piece of music, it may be that a listener's cultural musical background may effect how well we can convey an account's nature to them through the music. This concern is beyond the scope of this project, and is further discussed in the \textit{Further Work} section in the final chapter.} Musical elements that the listener's brain is capable of perceiving include pitch, rhythm and tonality.
+
+Tonality is an important musical element to consider, as it can convey \textbf{emotion}, triggering different areas of the brain depending on the emotion being conveyed. This is a feature that we can apply in designing Financial Music, as we can use tonality to convey the nature of an account in this way.
+
+\section{The MIDI Standard}
+
+MIDI is an acronym for \textbf{Musical Instrument Digital Interface}. Developed in 1983, it is a versatile protocol for communicating musical sequences and instrumentation. MIDI data consists of a number of \textbf{channels}, which contain lists of integer values to represent notes. Channel contents can be played (or transmitted) concurrently, resulting in music.
+
+The most commonly used implementation of MIDI is known as \textbf{Genral MIDI}, and it is this version that we will be utilising. MIDI is a good choice for representing music in this project, as we can easily write algorithms to generate the sequences of integers needed to play music using this standard. MIDI is also very well supported, and class libraries are available for many programming languages which allow the playing of MIDI sequences with ease.
+
+\section{First Case Study: Playing the Market}
+
+An experimental music project named \textit{Emerald Suspension}\footnote{The homepage of Emerald Suspension can be found at: \url{http://www.emeraldsuspension.com}} produced an album titled ``Playing the Market'', which uses patterns derived from stock market movements to inspire interesting music, which was then further arranged by the musicians. A soundbite from their website declares the following:
+
+\begin{quote}
+``Conceptual audio arrangements by Emerald Suspension are structured based on patterns created by the stock market, economic indicators, algorithms, and other data sources.''
+\end{quote}
+
+\noindent The \textit{Playing the Market} project differs somewhat from Financial Music in that \textit{Emerald Suspension} are using movements in the \textit{stock market} as a template to produce music for artistic reasons. The data they used to generate the music was specifically chosen because it resulted in good music. The music produced was then refined by the musicians to a high standard.
+
+In Financial Music, we will be using \textit{company accounts} to generate music for \textit{any} account. As there will be no artistic selection of musical output, we will need to develop a way of generating music for any given account in real time. There will also be no refining of the output; the music produced must stand on its own merits.
+
+We can draw inspiration from Emerald Suspension's project. Their album demonstrates that there \textit{are} distinct patterns in the financial world, which can be used to generate music. They also demonstrate that the music generated from these patterns can be perceived by listeners to have a meaning which represents the original patterns.
+
+\section{Summary}
+
+So far, we have seen how a company's accounts are represented. We have looked at issues of music cognition, and seen how these issues will play a part in our approach towards a design.
+
+With a basic understanding of the issues of the financial statement and music cognition, we are now in a position to think about drawing connections between these two eclectic concepts. But, before we do this, we need to design and implement an appropriate software architecture, and it is this that we will look at in the next chapter.

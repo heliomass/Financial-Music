@@ -1,0 +1,29 @@
+\section{Appendix E: User Guide}
+
+Welcome to the user guide. Here you will learn how to operate Financial Music.
+
+\subsection*{System Requirements}
+
+Before beginning, you will need to ensure you have Java 1.6 and Jython 2.2.1 installed. Java can be obtained from \url{www.sun.com} and Jython can be obtained from \url{www.jython.org}
+
+\subsection*{File Formats}
+
+Financial Music expects the account information to be in CSV (Comma Seperated Value) files. These can be opened or generated with a spreadsheet package such as Microsoft Excel.
+
+\subsection*{Compiling Financial Music}
+
+To prepare Financial Music for operation, you will need to open a command line console. Once this is done, navigate to the directory containing Financial music and type: \texttt{java *.java}. This will perform the compilation.
+
+\subsection*{Music Generation}
+
+Before generating the music, you will need to make sure that you have two subsequent years' balance sheets in two separate CSV files.\\
+
+To generate music for the Signal Mapping implementation, type the following at the command line: \texttt{jython Mapping.py year1 year2}. Likewise, to generate music for the L-System Music Generation implementation, type: \texttt{jython LSS.py year1 year2}. In both instances, replace \texttt{year1} and \texttt{year2} with the appropriate file names.
+
+\subsection*{Playing the Music}
+
+Once the music is generated, you can hear it by typing the following at the command line: \texttt{java MusicReader}.
+
+\subsection*{Changing Program Settings}
+
+To alter the settings used to generate the music, open your favourite text editor and choose `open file'. Navigate to the Financial Music directory, and open \texttt{settings.py}. Within, you will find instructions on how to change these settings.

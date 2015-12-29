@@ -1,0 +1,105 @@
+\documentclass[a4paper,11pt]{report}
+
+\bibliography{main}
+\bibliographystyle{unsrt}
+
+\usepackage{fullpage}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{setspace}
+\usepackage{float}
+\usepackage{sectsty}
+\usepackage{url}
+\usepackage{amssymb}
+\usepackage{bbm}
+%\usepackage{latexsymb}%
+
+\graphicspath{{./figures/}}
+
+\chapterfont{\LARGE}
+\sectionfont{\large}
+
+\setcounter{secnumdepth}{0}
+
+\floatstyle{boxed}
+
+\newfloat{formality}{H}{lop}
+
+\doublespacing
+\author{Daniel Demby}
+\title{Final Year Dissertation}
+\begin{document}
+\include{titlepage}
+\thispagestyle{empty}
+\begin{quote}
+Declaration: \\
+
+I, Daniel Demby, confirm that this work submitted for assessment is my own and is expressed in my own words. Any uses made within it of the works of other authors in any form eg: ideas, figures, text, tables, programs are properly acknowledged at any point of their use. A list of the references employed is included. \\
+
+Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+\end{quote}
+\begin{abstract}
+\thispagestyle{empty}
+
+\noindent In Douglas Adams' novel `Dirk Gently's Holistic Detective Agency', he describes software capable of generating music from corporate accounts. The music generated was capable of conveying the state of an account, to the point where a listener was able to make an investment decision. \\
+
+\noindent Over the course of this dissertation, we will design, develop, implement and evaluate two approaches towards achieving this. We will focus on both conveying the account's nature, and on making the audio output as musical as possible. The first approach explored uses an mathematical approach in which we generate `signals' from the accounts. These signals to appropriate musical sequences. The second approach uses L-Systems to generate music from these same signals. \\
+
+\noindent We will discover in the evaluation that both approaches produce audio output which is considered musical. We will also discover that the L-System approach show's the highest level of success when conveying the nature of an account. \\
+
+\noindent Finally, we will go forward to design a novel idea called \textit{The Financial Genome}, in which we attempt to use a biologically inspired approach to identify patterns in accounts, find an optimum genome.
+
+\end{abstract}
+\begin{singlespace}
+\include{ack}
+\thispagestyle{empty}
+\tableofcontents
+\thispagestyle{empty}
+\end{singlespace}
+
+\begin{singlespace}
+\listoffigures
+\end{singlespace}
+
+\pagenumbering{roman}
+
+\include{introduction}
+
+\include{background}
+
+\include{framework}
+
+\include{mapping}
+
+\include{lsystem}
+
+\include{testing}
+
+\include{genome}
+
+\include{conclusion}
+
+\begin{singlespace}
+\chapter*{Appendices}
+\addcontentsline{toc}{chapter}{Appendix}
+\pagenumbering{Roman}
+\include{results}
+\include{appio}
+\include{appgraph}
+\include{questionnaire}
+\include{userguide}
+\include{genomeexample}
+\include{applog}
+\end{singlespace}
+
+% Generic figure template
+%\begin{figure}[ht]
+%\centering
+%\includegraphics[scale=0.75]{logo}
+%\caption{A graph showing the average amount that testers agreed with the expert's decision whether to invest in an account, not invest in an account or to remain undecided.}
+%\label{fig:agreegraph}
+%\end{figure}
+
+\end{document}

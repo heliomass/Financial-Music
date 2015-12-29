@@ -1,0 +1,86 @@
+\chapter{Conclusions}
+
+We now arrive at the end of the project, and in this final chapter we will reflect upon what we've discovered, and how future projects could continue the work.
+
+\section{Discoveries and Achievements}
+
+At this point, it is pertinent to ask the question ``What have we discovered from this process?''. To begin with, we discovered that it \textit{is} possible to generate music from accounts. More so, we found that by refining techniques, we could get the music to approximate the account's features, so that a listener could make a guess at the state of the account. We also discovered that a biologically-inspired approach worked much better than one which came from a purely mathematical direction.
+
+With the conclusion of this dissertation, we have successfully managed to generate music from accounts. The evaluation implies that one of the approaches is over 60\% effective in representing the account's true nature. Recall that these were the two main aims of the project.
+
+\section{Project Evaluation}
+
+The purpose of this section is to clear up any ambiguities for those readers who followed this project through its first and second deliverables (The final document you are reading now would be classed as the third deliverable).
+
+By Deliverable 2, two implementations were proposed, namely the Signal Mapping and the Financial Genome. During the course of the implementation, the L-System Music Generation idea was formulated, and showed enough promise to warrant further exploration.
+
+In the end, a full implementation of the L-System idea was produced, and evaluated along side the Signal Mapping. Results of the evaluation showed that developing the approach was worth the time and effort put into it.
+
+Meanwhile, the Financial Genome approach was showing signs of being too ambitious for an undergraduate dissertation. The design process continued to progress from the second deliverable, but a fully developed prototype was not able to be produced in the time available. Moreso, the ambitiousness of the idea would have made evaluating such a prototype very difficult without greater resources. In the end L-System implementation was pursued at the expense of the Financial Genome approach.
+
+However, the Financial Genome idea was not abandoned by any means. This resulted in a greater overall quantity of work being performed than was originally proposed at the time of Deliverable 2 (three ideas instead of two). Unfortunately, the Financial Genome was not as fully developed as it was intended to be.
+
+\section{Future Work}
+
+The basic idea proposed of generating music from accounts is a vast one, and one with huge potential. During the course of this project, we have developed some preliminary ideas, but there is so much more work that could be done in this area. In this section, various avenues for future work are proposed.
+Approximations of time scales are given with each proposal. (A \textbf{medium} timescale should be considered to be the same amount of time spent on this dissertation.) \\
+
+\noindent \textbf{User Interface} \\
+
+\noindent 1) Development of a user interface in Java \textit{(see appendix B, page \pageref{appendix:interfaces1})}. \textit{Time scale: short}\\
+
+\noindent 2) Development of a web based version using a Java applet \textit{(see appendix B, page \pageref{appendix:interfaces1})}. \textit{Time scale: short} \\
+
+\noindent 3) Ability to read accounts from websites such as \textit{Google Finance} via the use of data scraping techniques \textit{(see appendix B, page \pageref{appendix:interfaces2})}. \textit{Time scale: medium} \\
+
+\noindent 4) Full integration into a spredsheet application, as described in Douglas Adams' book. \textit{Time scale: medium} \\
+
+\noindent \textbf{Signal Mapping} \\
+
+\noindent 1) In this dissertation, only the balance sheet is used to generate signals. The implementation could be expanded by also using the Income and Cash Flow statements. \textit{Time scale: medium} \\
+
+\noindent 2) The concept of `skinning' the processors to produce different types of musical output can be applied. \textit{Time scale: medium} \\
+
+\noindent \textbf{L-System Music Generation} \\
+
+\noindent 1) Rule definitions: Research into how to structure the rules of the L-System so that they better reflect the account's nature. This kind of research would probably be suited to someone with a musical background. \textit{Time scale: medium to long}\\
+
+\noindent 2) What happens if we have \textbf{longer strings} in the replacement rules? This leads to more control over the musical sequences used, but does it come at a cost? \textit{Time scale: short} \\
+
+\noindent 3) We could use is to have additional variables in $V$ of the L-System that produce `generic' musical sequences not tied to any account features. These can be used to pad out the music, and are included simply to provide colour to the music. This will increase the musical complexity, but will it dilute the signs which point to account features? \textit{Time scale: medium} \\
+
+\noindent 4) We could consider including more than one variable in a replacement rule. This way, the axiom reduces in a less predictable manner, leading to more emergent properties. For example, we could have a rule: $(A \rightarrow BuuC)$. \textit{Time scale: short to medium} \\
+
+\noindent 5) A ten grade system could be applied (and indeed, the implementation already supports this). This would mean that a greater variety of music is produced, as there are more grade boundaries for signals. However, the rules for each grade need careful planning, and many more accounts are needed for testing a ten grade system than a six grade system, simply because of the greater variety of music. \textit{Time scale: short to medium} \\
+
+\noindent 6) Each account attribute has its own set of replacement rules. This would perhaps make it easier to hear the movement of specific attributes within an account, as they could generate their own sequences. \textit{Time scale: short to medium} \\
+
+\noindent 7) We could define musical genres, allowing the user to choose a genre of their preference before the music is generated. For example, the rules we defined in this chapter produce music which is split into four beats per bar. If we reduced this to three beats, we could set this alternative rule set up as its own `waltz' genre. \textit{Time scale: medium to long} \\
+
+\noindent \textbf{Financial Genome} \\
+
+\noindent 1) Research into developing a fuller financial genome. The genome given in Chapter 7 only defines a few simple characteristics. A fuller genome could lead to better music generation. \textit{Time scale: long} \\
+
+\noindent 2) Genes can be given the ability to be dominant or recessive. They can also be developed so combining two genes produces a unique feature not found in any other configuration. \textit{Time scale: medium} \\
+
+\noindent \textbf{General Research} \\
+
+\noindent 1) Music cognition tells us that a person's perception of music is based on their experience. Research could be conducted into how cultural background affects the perception of the accounts when heard through the music. \textit{Time scale: long} \\
+
+\noindent 2) There may be many other (and possibly better) approaches to generating music from accounts. Some of these could be investigated. \textit{Time scale: medium to long} \\
+
+\noindent 3) As the generated music becomes more complex, what is the `cost' associated with this in terms of ability to accurately assess the account's true nature? \textit{Time scale: medium} \\
+
+
+\section{Final Conclusion: Is There a Real-World Application for Financial Music?}
+
+After reading through this document, the reader may conclude that whilst Financial Music is an interesting topic for research, it lacks any value as a real-world application, perhaps doomed to reside with thousands of other programming curiosities which can be found the internet.
+
+But, if the amount of accounts that a novice can correctly analyse through the music \textit{exceeds} the amount that they can correctly analyse just from looking at the numbers, then Financial Music can serve a useful purpose. On top of this, if the music provides a \textit{quicker} way to analyse accounts than traditional methods, then we have found a real-world use for Financial Music.
+
+For example, an investment portfolio manager could batch convert a series of accounts to music, and then listen to the tracks on their iPod whilst out jogging during their lunch break. When returning to their office, they can then choose which accounts to investigate further. Therefore, the main purpose Financial Music could serve is to help filter out the worst investment propositions. \\
+
+\noindent Finally, It is my hope that the development of Financial Music idea will continue.
+
+
+
