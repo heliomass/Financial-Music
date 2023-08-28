@@ -1,6 +1,6 @@
 ![](logo.png)
 # Financial Music
-Please read the dissertation in PDF form [here](http://heliomass.com/financial-music).
+Please read the dissertation in PDF form [here](http://heliomass.com/projects/financial-music).
 
 This repository contains source code, test accounts, produced music and *LaTeX* source for my undergraduate university dissertation, circa 2008.
 
